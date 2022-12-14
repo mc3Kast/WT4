@@ -1,4 +1,4 @@
-package bmain.java.y.bsuir.wt.fourth.controller.command.impl;
+package main.java.y.bsuir.wt.fourth.controller.command.impl;
 
 import javax.servlet.http.HttpServletResponse;
 
